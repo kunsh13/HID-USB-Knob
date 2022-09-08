@@ -1,6 +1,4 @@
-//Author:@vincentmakes
-//Instructions:https://hackaday.io/project/164043-the-infinity-usb-knob
-//GNU Licence
+//Kunsh13
 
 #include "HID-Project.h"
 #include "Adafruit_NeoPixel.h"
