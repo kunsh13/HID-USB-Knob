@@ -1,2 +1,1 @@
-# InfinityUSBKnob
-
+# USB volume knob pro mini
